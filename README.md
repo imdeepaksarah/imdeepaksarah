@@ -1,4 +1,4 @@
-![logo](https://github.com/imdeepaksarah/imdeepaksarah/blob/main/Deepak%20Sarah.png)
+![logo](https://github.com/imdeepaksarah/imdeepaksarah/blob/main/Deepak%20sarah%20(1).png)
 <h1 align="center">Hi 👋, I'm Deepak Sarah</h1>
 <h3 align="center">I am a Full-Stack Web Developer from E-Skill , a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.</h3>
 
